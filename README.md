@@ -147,7 +147,7 @@ ai-voice-studio-app/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/macshashwat/ai-voice-studio-app.git
+   git clone https://github.com/macshashwat/AI-Voice-Studio.git
    cd ai-voice-studio-app
    ```
 
